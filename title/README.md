@@ -1,4 +1,4 @@
-# `title.toml`
+# `title.toml` - Modelling pollution in the urban environment using neural networks
 
 | workflow | status |
 | - | - |
