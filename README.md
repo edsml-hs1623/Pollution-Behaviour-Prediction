@@ -4,14 +4,10 @@
 This project aims to develop a comprehensive system to predict pollution dispersion and wind velocity field using advanced machine learning techniques, including Convolutional VAE, Computational Fluid Dynamic, and Data Assimilation (DA). The system leverages historical data and observational imagery to enhance prediction accuracy and provide actionable insights.
 
 ## Data Description
-
-- **Model Data:**
-  - `Urban_street.npy`: Data of detailed layout to generate structured mesh in Du Cane Road
-  - `INHALE_1280.npy`: Data of detailed layout to generate structured mesh in South Kensington
-  - `final_combined_data.npy`: Processed velocity data needed for CVAE and further simulations
-  - `final_combined_data_p.npy`: Processed pollution data needed for CVAE and further simulations
-- **Satellite Data:**
-  - `Ferguson_fire_obs.npy`: Satellite observation data at various times after ignition.
+- `Urban_street.npy`: Data of detailed layout to generate structured mesh in Du Cane Road
+- `INHALE_1280.npy`: Data of detailed layout to generate structured mesh in South Kensington
+- `final_combined_data.npy`: Processed velocity data needed for CVAE and further simulations
+- `final_combined_data_p.npy`: Processed pollution data needed for CVAE and further simulations
 
 ## Getting Started
 
