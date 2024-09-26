@@ -1,7 +1,10 @@
-# Independent Research Project - hs1623
+# Independent Research Project - Hanson (Hung-Hsuan) Shen
 
 ## Overview
 This project aims to develop a comprehensive system to predict pollution dispersion and wind velocity field using advanced machine learning techniques, including Convolutional VAE, Computational Fluid Dynamic, and Data Assimilation (DA). The system leverages historical data and observational imagery to enhance prediction accuracy and provide actionable insights.
+![Workflow](deliverables/Image-Workflow.png)
+![Result](deliverables/Image-Result.png)
+![Deatiled Result](deliverables/Image-Detail.png)
 
 ## Data Description
 - `Urban_street.npy`: Data of detailed layout to generate structured mesh in Du Cane Road
